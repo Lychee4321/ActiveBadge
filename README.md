@@ -1,6 +1,11 @@
 # ActiveBadge
 가장 쉽게 개인컴에서 시작하는 활성화 개발자 뱃지 받기
 
+사용자 Linvy 님의 후기
+
+![](https://user-images.githubusercontent.com/87593151/221869849-92850aad-e7b9-4474-b250-cb82a1686ef3.png)
+
+
 # 시작하기
 - 와 이게 머죠 ???? 어캐 받는건가요 ???
 
