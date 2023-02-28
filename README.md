@@ -21,7 +21,7 @@
 
 3. 설치 끝 .
 
-* requirements.txt 는 설치할줄 알죠 ? 
+## requirements.txt 는 설치할줄 알죠 ? 
 
 1. 누른다
 
