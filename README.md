@@ -20,6 +20,22 @@
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcMcLCM%2FbtrbvxGsPfb%2Fnrr4Fe4hem3g3ZRXnUSnO1%2Fimg.png)
 
 3. 설치 끝 .
+
+* requirements.txt 는 설치할줄 알죠 ? 
+
+1. 누른다
+
+![](https://user-images.githubusercontent.com/87593151/221867312-e6916efd-a3d0-41e1-8377-d2cb099848b5.png)
+
+2. cmd 친다.
+
+![](https://user-images.githubusercontent.com/87593151/221867559-da4ffc3e-cc53-4011-a64c-e4efb4712f0d.png)
+
+3. pip install -r requirements.txt 치고 엔터
+
+![](https://user-images.githubusercontent.com/87593151/221868222-343a94cf-4caf-4b4d-852a-943776077bd2.png)
+
+
 ## 파일 설정
 
 1. [파일을 다운로드](https://github.com/Lychee4321/ActiveBadge/archive/refs/heads/main.zip) 받으세요 .
