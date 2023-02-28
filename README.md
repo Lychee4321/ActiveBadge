@@ -15,8 +15,11 @@
 
 ![](https://cdn.discordapp.com/attachments/1079954733151817751/1080049139565469716/image.png)
 
-2.
+2. PATH 설치를 체크하고 파이썬을 설치한다.
 
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcMcLCM%2FbtrbvxGsPfb%2Fnrr4Fe4hem3g3ZRXnUSnO1%2Fimg.png)
+
+3. 설치 끝 .
 ## 사용하기
 
 ㅇㅇ
