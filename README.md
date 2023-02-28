@@ -46,7 +46,7 @@
 
 ![](https://user-images.githubusercontent.com/87593151/221863203-4614f006-b53b-4cdc-9e7c-d0eada539bf3.png)
 
-3. 이창이 뜨셨다면 디스코드로 봇 초대후 이동
+3. 토큰 치고 이창이 뜨셨다면 디스코드로 봇 초대후 디스코드로 이동
 
 ![](https://user-images.githubusercontent.com/87593151/221863623-7f3a97e8-07fb-4c18-92c9-c46ecf96c64f.png)
 
