@@ -6,6 +6,11 @@ import time
 
 from colorama  import Fore, Style
 
+# 라쿠#7777 - https://idyllc.xyz
+# 라쿠#7777 - https://idyllc.xyz
+# 라쿠#7777 - https://idyllc.xyz
+# 라쿠#7777 - https://idyllc.xyz
+
 # 파이썬 버젼 오류 감지
 if sys.version_info < (3, 8):
     exit("파이썬 3.8 버젼 이상을 사용해주세요.")
