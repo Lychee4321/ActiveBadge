@@ -9,7 +9,7 @@
 
 1. [파이썬 설치하기](https://www.python.org/downloads) 에 들어간다.
 
-![]([https://i.alexflipnote.dev/2Ucs5Hf.png](https://cdn.discordapp.com/attachments/1079954733151817751/1080049139565469716/image.png))
+![](https://cdn.discordapp.com/attachments/1079954733151817751/1080049139565469716/image.png)
 
 2.
 
