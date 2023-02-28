@@ -28,21 +28,21 @@
 
 2. start.bat 를 눌러주세요
 
-[](https://user-images.githubusercontent.com/87593151/221863203-4614f006-b53b-4cdc-9e7c-d0eada539bf3.png)
+![](https://user-images.githubusercontent.com/87593151/221863203-4614f006-b53b-4cdc-9e7c-d0eada539bf3.png)
 
 3. 이창이 뜨셨다면 디스코드로 봇 초대후 이동
 
-[](https://user-images.githubusercontent.com/87593151/221863623-7f3a97e8-07fb-4c18-92c9-c46ecf96c64f.png)
+![](https://user-images.githubusercontent.com/87593151/221863623-7f3a97e8-07fb-4c18-92c9-c46ecf96c64f.png)
 
 ## 디스코드 설정
 
 1. /setup 명령어 입력하기
 
-[](https://user-images.githubusercontent.com/87593151/221864119-9c2cb510-2926-4c50-a690-be7b0edde110.png)
+![](https://user-images.githubusercontent.com/87593151/221864119-9c2cb510-2926-4c50-a690-be7b0edde110.png)
 
 2. 이창 확인후 24시간 대기
 
-[](https://user-images.githubusercontent.com/87593151/221864238-6b588503-0850-4134-87db-576b1170effd.png)
+![](https://user-images.githubusercontent.com/87593151/221864238-6b588503-0850-4134-87db-576b1170effd.png)
 
 # 초 ~ 
 
