@@ -44,7 +44,7 @@
 
 ![](https://user-images.githubusercontent.com/87593151/221864238-6b588503-0850-4134-87db-576b1170effd.png)
 
-# 초 ~ 
+# とても簡単に終了 ~
 
 
 
