@@ -1,2 +1,16 @@
 # ActiveBadge
-Easy to get Active Badge for korean
+가장 쉽게 개인컴에서 시작하는 활성화 개발자 뱃지 받기
+
+# 시작하기
+
+## Python 설치
+
+ㅇㅇ
+
+ㅇㅇ
+
+# 사용하기
+
+ㅇㅇ
+
+ㅇㅇ
