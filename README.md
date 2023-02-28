@@ -22,6 +22,7 @@
 3. 설치 끝 .
 ## 사용하기
 
-ㅇㅇ
+1. [파일을 다운로드](https://github.com/Lychee4321/ActiveBadge/archive/refs/heads/main.zip) 받으세요 .
 
-ㅇㅇ
+
+
