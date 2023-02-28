@@ -24,5 +24,8 @@
 
 1. [파일을 다운로드](https://github.com/Lychee4321/ActiveBadge/archive/refs/heads/main.zip) 받으세요 .
 
+![](https://user-images.githubusercontent.com/87593151/221862642-9ad72859-a09d-490e-bca5-c0cab8395688.png)
+
+
 
 
