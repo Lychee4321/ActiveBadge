@@ -1,7 +1,7 @@
 # ActiveBadge
 가장 쉽게 개인컴에서 시작하는 활성화 개발자 뱃지 받기
 
-[원본 레포](https://github.com/AlexFlipnote/GiveMeBadge)
+[영문버젼 원본 레포 바로가기](https://github.com/AlexFlipnote/GiveMeBadge)
 
 사용자 Linvy 님의 후기
 
