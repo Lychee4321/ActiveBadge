@@ -3,7 +3,7 @@
 
 [영문버젼 원본 레포 바로가기](https://github.com/AlexFlipnote/GiveMeBadge)
 
-커맨드 입력 하셨으면 꺼도 됩니다 !!!
+**커맨드 입력 하셨으면 꺼도 됩니다 !!!**
 
 사용자 Linvy 님의 후기
 
