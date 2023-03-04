@@ -4,6 +4,7 @@
 [영문버젼 원본 레포 바로가기](https://github.com/AlexFlipnote/GiveMeBadge)
 
 **커맨드 입력 하셨으면 꺼도 됩니다 !!!**
+**봇 토큰을 입력하셔야합니다 !!!**
 
 사용자 Linvy 님의 후기
 
@@ -55,7 +56,7 @@
 
 ![](https://user-images.githubusercontent.com/87593151/221863203-4614f006-b53b-4cdc-9e7c-d0eada539bf3.png)
 
-3. 토큰 치고 이창이 뜨셨다면 디스코드로 봇 초대후 디스코드로 이동
+3. 봇 토큰 치고 이창이 뜨셨다면 디스코드로 봇 초대후 디스코드로 이동
 
 ![](https://user-images.githubusercontent.com/87593151/221863623-7f3a97e8-07fb-4c18-92c9-c46ecf96c64f.png)
 
@@ -69,10 +70,7 @@
 
 ![](https://user-images.githubusercontent.com/87593151/221864238-6b588503-0850-4134-87db-576b1170effd.png)
 
-# とても簡単に終了 ~
-
-
-
+# とても簡単に終了 !!
 
 
 
