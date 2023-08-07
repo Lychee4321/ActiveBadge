@@ -3,15 +3,15 @@ cls
 
 :main
 
-title °³¹ßÀÚ ¹îÁö ¹Þ±â ÇÁ·Î±×·¥
+title ê°œë°œìž ë±ƒì§€ ë°›ê¸° í”„ë¡œê·¸ëž¨
 echo.
 echo.
-echo »ç¿ëÀü , ²À ÆÄÀÌ½ã ÃÖ½Å¹öÁ¯À» ¼³Ä¡ÇØÁÖ¼¼¿ä!
+echo ì‚¬ìš©ì „ , ê¼­ íŒŒì´ì¬ ìµœì‹ ë²„ì ¼ì„ ì„¤ì¹˜í•´ì£¼ì„¸ìš”!
 echo.
-echo requirements.txt ¿¡ ÇÊ¿äÇÑ ¸ðµâµéÀ» ´Ù Àû¾îµ×À¸´Ï
-echo °£´ÜÇÏ°Ô ¼³Ä¡ÇÏ°í ÀÌ¿ëÇÏ¼¼¿ä.
+echo requirements.txt ì— í•„ìš”í•œ ëª¨ë“ˆë“¤ì„ ë‹¤ ì ì–´ë’€ìœ¼ë‹ˆ
+echo ê°„ë‹¨í•˜ê²Œ ì„¤ì¹˜í•˜ê³  ì´ìš©í•˜ì„¸ìš”.
 echo.
-echo - ¶óÄí#7777 - https://idyllc.xyz
+echo - @nao.lol - https://nao.lol
 echo.
 
 goto py
