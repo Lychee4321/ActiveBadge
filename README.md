@@ -23,7 +23,7 @@
 
 ## 파이썬 설정
 
-1. [파이썬 설치하기](https://www.python.org/downloads) 에 들어간다.
+1. [파이썬 설치하기](https://www.python.org/downloads) 에 들어간다. (3.8.x ~ 3.9.x 버젼 추천!!)
 
 ![](https://cdn.discordapp.com/attachments/1079954733151817751/1080049139565469716/image.png)
 
