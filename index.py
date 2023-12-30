@@ -6,10 +6,11 @@ import time
 
 from colorama  import Fore, Style
 
-# 라쿠#7777 - https://idyllc.xyz
-# 라쿠#7777 - https://idyllc.xyz
-# 라쿠#7777 - https://idyllc.xyz
-# 라쿠#7777 - https://idyllc.xyz
+# naonfall - https://nao.lol
+# naonfall - https://nao.lol
+# naonfall - https://nao.lol
+# naonfall - https://nao.lol
+
 
 # 파이썬 버젼 오류 감지
 if sys.version_info < (3, 8):
