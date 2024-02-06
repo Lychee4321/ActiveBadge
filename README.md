@@ -1,6 +1,8 @@
 # ActiveBadge
 가장 쉽게 개인컴에서 시작하는 활성화 개발자 뱃지 받기
 
+Star 눌러주세요 !!!!!!
+
 [영문버젼 원본 레포 바로가기](https://github.com/AlexFlipnote/GiveMeBadge)
 
 # 주의사항
