@@ -11,7 +11,8 @@ echo.
 echo requirements.txt 에 필요한 모듈들을 다 적어뒀으니
 echo 간단하게 설치하고 이용하세요.
 echo.
-echo - @nao.lol - https://nao.lol
+echo - https://t.me/naonfall - https://nao.lol
+echo 궁금한점 다 문의주세요.
 echo.
 
 goto py
