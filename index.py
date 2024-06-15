@@ -6,10 +6,10 @@ import time
 
 from colorama  import Fore, Style
 
-# naonfall - https://nao.lol
-# naonfall - https://nao.lol
-# naonfall - https://nao.lol
-# naonfall - https://nao.lol
+# naonfall - https://nao.blue
+# naonfall - https://nao.blue
+# naonfall - https://nao.blue
+# naonfall - https://nao.blue
 
 
 # 파이썬 버젼 오류 감지
